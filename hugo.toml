@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://hildaorz.github.io'
 languageCode = 'en-us'
-title = 'Test'
+title = 'Little Potatoes'
 theme = 'lightbi-hugo'
